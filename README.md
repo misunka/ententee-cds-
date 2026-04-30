@@ -1,2 +1,2 @@
-# ententee-cds-
+# ententee-cds
 CDS prototype
